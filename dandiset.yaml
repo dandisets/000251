@@ -43,7 +43,9 @@ contributor:
 - affiliation: []
   includeInCitation: true
   name: Kim, HyungGoo
-  roleName: []
+  roleName:
+  - dcite:ContactPerson
+  - dcite:Author
   schemaKey: Person
 - affiliation: []
   includeInCitation: true
