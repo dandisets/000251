@@ -23,7 +23,7 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 2175642248
+  numberOfBytes: 2170119624
   numberOfFiles: 513
   numberOfSubjects: 53
   schemaKey: AssetsSummary
@@ -37,7 +37,7 @@ assetsSummary:
   - Units
 citation: Kim, HyungGoo; Malik, Athar; Mikhael, John; Bech, Pol; Tsutsui-Kimura, Iku;
   Sun, Fangmiao; Zhang, Yajun; Li, Yulong; Watabe-Uchida, Mitsuko; Gershman, Samuel;
-  Uchida, Naoshige (2022) A Unified Framework for Dopamine Signals across Timescales
+  Uchida, Naoshige (2023) A Unified Framework for Dopamine Signals across Timescales
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000251/draft
 contributor:
 - affiliation: []
